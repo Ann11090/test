@@ -8,3 +8,4 @@ Add line
 New line 
 Add line 2
 new branch line
+conflict test
